@@ -4,3 +4,7 @@
 
 Como inserir os memes?
 [Seu nome]: **nome do meme**
+
+---
+
+- Letícia: é feijão ou é sorvete?
