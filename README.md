@@ -10,3 +10,5 @@ Como inserir os memes?
 - Letícia: é feijão ou é sorvete?
 
 - Letícia: cloroquiner
+
+- Jennifer: " Nunca nem vi "
