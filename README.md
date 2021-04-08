@@ -3,10 +3,13 @@
 > Esse repositório tem o intuito de reunir todos os memes já criados durante a aula.
 
 Como inserir os memes?
-[Seu nome]: **nome do meme**
 
----
+- Crie um `<arquivo.md>` com o seu nome;
 
-- Letícia: é feijão ou é sorvete?
+- Insira o meme nesse formato: [Seu nome]: **nome do meme**
 
-- Letícia: cloroquiner
+    - Exemplos:
+        
+        - Letícia: é feijão ou é sorvete?
+
+        - Letícia: cloroquiner
