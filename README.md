@@ -13,3 +13,7 @@ Como inserir os memes?
         - Letícia: é feijão ou é sorvete?
 
         - Letícia: cloroquiner
+
+        - Marian: Meme da lele criança -> ![Alt Text](https://i.pinimg.com/originals/7e/cd/01/7ecd01ceb18938344a84b21617e648c6.gif)
+
+    
