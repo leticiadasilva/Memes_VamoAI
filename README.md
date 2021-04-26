@@ -9,7 +9,7 @@ Como inserir os memes?
 - Insira o meme nesse formato: [Seu nome]: **nome do meme**
 
     - Exemplos:
-        
+      
         - Letícia: é feijão ou é sorvete?
-
-        - Letícia: cloroquiner
+- Letícia: cloroquiner
+        - Michelle: saudade de bater perna, né minha filha?
